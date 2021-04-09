@@ -1,0 +1,1 @@
+﻿abrasion,abscess,acute,benign,biopsy,chronic,contusion,edema,epidermis,fracture,hypertension,inpatient,intravenous,malignant,outpatient

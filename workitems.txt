@@ -1,0 +1,5 @@
+﻿foul.txt,foul.json,foul-raw.json,5000,0,Y
+hard.txt,hard.json,hard-raw.json,5000,0,Y
+medical.txt,medical.json,medical-raw.json,5000,0,Y
+legal.txt,legal.json,legal-raw.json,5000,0,Y
+astro.txt,astro.json,astro-raw.json,5000,0,Y
